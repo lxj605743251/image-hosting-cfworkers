@@ -11,10 +11,10 @@ compatibility_flags = ["nodejs_compat"]
 
 [[r2_buckets]]
 binding = "MY_BUCKET"
-bucket_name = "myimages"
+bucket_name = "sunlovely"
 
 
 [vars]
-R2_DOMAIN = ""
-PASSWORD = ""
-SIGN_KEY = ""
+R2_DOMAIN = "download.sunlovely.com.cn"
+PASSWORD = "AIxy13wj"
+SIGN_KEY = "sunlovely"
